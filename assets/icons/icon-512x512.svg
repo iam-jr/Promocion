@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-label="Promo Rodante PR">
+  <!-- Fondo principal navy -->
+  <rect width="512" height="512" rx="96" fill="#0F2042"/>
+
+  <!-- Tarjeta blanca central -->
+  <rect x="86" y="74" width="340" height="308" rx="58" fill="#FFFFFF"/>
+
+  <!-- Triangulo / montana azul -->
+  <polygon points="256,128 149,330 363,330" fill="#0057B8"/>
+
+  <!-- Punto rojo encima -->
+  <circle cx="256" cy="112" r="37" fill="#D61E35"/>
+
+  <!-- Texto PR en blanco abajo -->
+  <text x="256" y="446" font-size="74" font-weight="800" fill="#FFFFFF" text-anchor="middle" font-family="Arial, sans-serif" letter-spacing="10">PR</text>
+</svg>
